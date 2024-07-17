@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/REACT-PORTFOLIO-FINAL-MAIN/static/css/main.6f0f87c5.css",
+    "main.js": "/REACT-PORTFOLIO-FINAL-MAIN/static/js/main.b728ddc0.js",
+    "static/media/u-said-it-v13-1167.mp3": "/REACT-PORTFOLIO-FINAL-MAIN/static/media/u-said-it-v13-1167.becd66496be9c81ddf9d.mp3",
+    "static/media/pngwing.com (4).png": "/REACT-PORTFOLIO-FINAL-MAIN/static/media/pngwing.com (4).0ddf2cc21b1c76b9439d.png",
+    "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg": "/REACT-PORTFOLIO-FINAL-MAIN/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014fb6ce5980110.jpg",
+    "static/media/spaceman.png": "/REACT-PORTFOLIO-FINAL-MAIN/static/media/spaceman.5ec7fcfa9a803ead726c.png",
+    "index.html": "/REACT-PORTFOLIO-FINAL-MAIN/index.html",
+    "main.6f0f87c5.css.map": "/REACT-PORTFOLIO-FINAL-MAIN/static/css/main.6f0f87c5.css.map",
+    "main.b728ddc0.js.map": "/REACT-PORTFOLIO-FINAL-MAIN/static/js/main.b728ddc0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f0f87c5.css",
+    "static/js/main.b728ddc0.js"
+  ]
+}
